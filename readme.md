@@ -44,6 +44,8 @@ Example for store command:
 
 ## Day 2
 ---
+## Note: 
+- All the text files in the project are initially empty. Check them after running the commands.
 
 ### Part 1:
 -  In this part, we implement a durable-actor which implements the key-value abstraction with an append-only file that we called "storeD2P1.txt". 
