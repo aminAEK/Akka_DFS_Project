@@ -3,7 +3,7 @@
 * Imane AKDIM
 * Amina AIT ELKADI
 ---- 
-** In this project, we choose to write our code with scala **
+##### In this project, we choose to write our code with scala
 
 ## Day 1
 --- 
